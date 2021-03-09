@@ -53,7 +53,7 @@ class VideoGameFullTest extends Simulation {
 
   /*** Before ***/
   before {
-    println(s"Running test with ${userCount} users")
+    println(s"Running Our test with ${userCount} users")
     println(s"Ramping users over ${rampDuration} seconds")
     println(s"Total Test duration: ${testDuration} seconds")
   }
